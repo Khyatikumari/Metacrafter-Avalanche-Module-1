@@ -1,18 +1,16 @@
-Project Title
+# Project Title
 Smart Contract
 
-Description
+# Description
 An in-depth paragraph about your project and overview of use.
 
-Getting Started
+# Getting Started
 Code in REMIX platform
 
-How to run the program
+# How to run the program
 Step-by-step bullets
 code blocks for commands
-Help
-Any advise for common problems or issues.
-command to run if program contains helper info
-
-License
+# Author
+Khyati kumari
+# License
 This project is licensed under the Metacrafter License 
