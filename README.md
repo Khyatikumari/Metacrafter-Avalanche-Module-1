@@ -1,4 +1,24 @@
 # Metacrafter-Avalanche-Module-1
+# Project Title
+Smart Contract
+
+# Description
+An in-depth paragraph about your project and overview of use.
+
+# Getting Started
+Code in REMIX platform
+
+# How to run the program
+Step-by-step bullets code blocks for commands
+
+# Author
+Khyati kumari
+
+# License
+This project is licensed under the Metacrafter License
+
+# Code
+'''
 // SPDX-License-Identifier: MIT
 /*For this project, write a smart contract that implements the require(), assert() and revert() statements.*/
 pragma solidity ^0.8.0;
@@ -27,3 +47,4 @@ contract AccountBalances{
         return account[msg.sender];
     }
 }
+'''
